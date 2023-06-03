@@ -1,0 +1,9 @@
+.vegetable .title {
+  display: block;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.vegetable {
+  margin-top: 10px;
+}

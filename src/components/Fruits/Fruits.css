@@ -1,0 +1,9 @@
+.fruit .title {
+  display: block;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.fruit {
+  margin-top: 10px;
+}
